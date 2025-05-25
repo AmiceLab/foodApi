@@ -46,7 +46,7 @@ Install requirements:
 ### Installation
 
 1. **Clone the repo**
-                      ```bash
+
                       git clone https://github.com/AmiceLab/FoodAPI.git
                       cd FoodAPI
 
