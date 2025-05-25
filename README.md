@@ -61,7 +61,7 @@ Create and activate your virtual environment:
 
 4. **Done! Now you're ready to start developing.**
 
-
+---
 
 ## 🙋‍♀️ About the Creator
 
