@@ -69,6 +69,9 @@ AmiceLab is a HealthTech-focused creator with a passion for nutrition and wellne
 She is a Software Engineer and A Certified Functional Nutritionist.
 This API is part of ongoing tools designed to make food knowledge more accessible and actionable.
 
+---
 
-                      
+## Licence
+
+The copyrights of all the materials (including programs) is owned by AmiceLab.                      
                       
