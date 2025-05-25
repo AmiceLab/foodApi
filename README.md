@@ -1,4 +1,4 @@
-# 🍎 FoodAPI
+# 💪🏻👩🏻‍💻👩🏻‍⚕🍎 Food Nutrients API
 
 A simple and intelligent nutrition lookup API that returns nutritional data (Carbs, Protein, Iron, Vitamin C, etc.) per 100g of any given food item—using smart name matching if no exact match is found.
 
@@ -60,6 +60,14 @@ Create and activate your virtual environment:
 		pip install -r requirements.txt
 
 4. **Done! Now you're ready to start developing.**
+
+---
+
+## 🙋‍♀️ About the Creator
+
+AmiceLab is a HealthTech-focused creator with a passion for nutrition and wellness.
+She is a Software Engineer and A Certified Functional Nutritionist
+This API is part of ongoing tools designed to make food knowledge more accessible and actionable.
 
 
                       
