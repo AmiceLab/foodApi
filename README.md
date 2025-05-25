@@ -34,10 +34,10 @@ A simple and intelligent nutrition lookup API that returns nutritional data (Car
 
 Create and activate your virtual environment:
 
-		python -m venv venv
-		source venv/bin/activate  # Windows: venv\Scripts\activate
-		Install requirements:
-		pip install -r requirements.txt
+	python -m venv venv
+	source venv/bin/activate  # Windows: venv\Scripts\activate
+	Install requirements:
+	pip install -r requirements.txt
 
 ---
 
