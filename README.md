@@ -52,12 +52,12 @@ Install requirements:
 
 2. **Create a Virtual Environment**
 
-	python -m venv venv
-	source venv/bin/activate  # For Mac/Linux
+		python -m venv venv
+		source venv/bin/activate  # For Mac/Linux
                       
 3. **Install Requirements**
 
-	pip install -r requirements.txt
+		pip install -r requirements.txt
 
 4. **Done! Now you're ready to start developing.**
 
