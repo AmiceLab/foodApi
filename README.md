@@ -47,10 +47,10 @@ Install requirements:
 
 1. **Clone the repo**
 
-   git clone https://github.com/AmiceLab/FoodAPI.git
-   cd FoodAPI
+   'git clone https://github.com/AmiceLab/FoodAPI.git'
+   'cd FoodAPI'
 
-2. **Create a Virtual Environment**
+3. **Create a Virtual Environment**
 
    python -m venv venv
    source venv/bin/activate  # For Mac/Linux
